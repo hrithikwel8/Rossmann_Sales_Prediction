@@ -7,7 +7,7 @@ This is an Almabetter Capstone Project of Linear Regression completed by the fol
  
 2. Vridhi Parmar
 
-3. Hritik Chourasia
+3. Hrithik Chourasia
 
 4. Ameen Attar
 
